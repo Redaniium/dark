@@ -1,0 +1,236 @@
+ html {
+	  height: 100%;
+	  margin: 0;
+ 	 background-color: #202020;
+
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+	}
+
+	h1 {
+
+
+    margin-top: 54.86;
+    margin-top: -282px;
+    margin-bottom: 0px;
+	
+	font-family: Palatino, 'Palatino Linotype', 'Book Antiqua', serif;	
+	color: white;
+	text-shadow: 2px 2px coral, 6px 6px 17px black;
+    text-align: center;
+    font-size: 258px;
+
+	}
+
+
+	h2 {
+
+
+		font-family: 'Montserrat', sans-serif;
+
+		font-weight: 700;
+
+    	width: 345px;
+    	height: 80px;
+    	padding-bottom: 0px;
+
+    	font-size: 30px;
+
+    	color: coral;
+    	text-shadow: 0px 2px #000000;
+	
+    	margin-bottom: 0px;
+    	margin-top: 0px;
+    	padding-top: 82px;
+   		padding-bottom: -10;
+	}
+
+
+
+	.gradient{
+
+	    background: linear-gradient(#635652, #e17750);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: #d31e1e00;
+
+	}
+
+
+
+	.titleimage{
+
+		display: block; margin-left: auto; margin-right: auto; margin-top: 50px;"
+
+
+		margin-top: 50px;
+
+    	border-left-width: 10px;
+    	padding-left: 0px;
+    	padding-right: 0px;
+    	border-top-width: 10px;
+    	border-right-width: 10px;
+	    border-bottom-width: 10px;
+
+
+		height: 517px;
+
+		border-radius: 230px;
+    	border: solid;
+    	color: coral;
+
+    	.image {
+            filter: drop-shadow(12px 10px 16px rgba(0, 0, 0, 0.5)); }
+	}
+
+
+	p{
+		
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+		font-weight: bold;
+
+	color: coral;
+    text-align: -webkit-center;
+    font-size: 25px;
+
+	}
+
+
+	header{
+
+
+	padding-top:10px;padding-bottom:10px;padding-left:10px;padding-right:10px;"
+
+	padding-top: 75px;padding-bottom: 100px;padding-left: 100px;padding-right: 100px;
+
+	background:linear-gradient(0deg, #535353, #202020); 
+
+	}
+
+	hr{
+
+		width: 89%;
+            height: 0px;
+            border-top: 5px solid coral;
+            margin: 2px 0;
+            margin-bottom: 20px;
+            border-left-width: 3px;
+            border-right-width: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            padding-right: 113px;
+	}
+
+
+	p2{
+
+		font-family: 'Montserrat', sans-serif;
+
+		font-weight: 700;
+
+		padding-top: 121px;
+    	width: 345px;
+    	height: 80px;
+    	padding-bottom: 0px;
+
+    	font-size: 24px;
+    	color: coral;
+    	text-shadow: 0px 1px 0px #000000;
+
+	}
+
+	header2 {
+
+	background: linear-gradient(180deg, #525252, coral);
+    margin-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+	}
+
+	hi {
+
+	text-decoration: underline;
+    color: red;
+	}
+
+	header3	{
+    background: linear-gradient(0, #525252, coral);
+    margin-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-left-width: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+	
+	.imdb{
+
+    font-size: 40px;
+    font-weight: 700;
+    width: auto;
+    height: 80px;
+    color: coral;
+    text-shadow: -1px 3px 7px #000000;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(0, #fb7e50, coral);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+	}
+
+	.imdb:hover {
+
+		color: #333333;
+	}
+
+	.footere:hover {
+
+		color: #333333;
+	}
+
+	.footere {
+
+ 	font-size: 20px;
+    font-weight: 700;
+    width: auto;
+    height: 26px;
+    color: coral;
+    text-shadow: -1px 3px 7px #000000;
+    font-family: 'Montserrat', sans-serif;
+
+
+	}
+
+	p12 {
+
+		        font-family: 'Montserrat', sans-serif;
+    			font-weight: 700;
+    			padding-top: 0;
+    			padding-bottom: 0px;
+    			font-size: 17px;
+    			color: #555352;
+    			text-shadow: 0px 1px 0px #000000;
+    			padding-left: 550px;
+	}
